@@ -114,12 +114,12 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](<Screenshot at 2025-05-12 08-27-03.png>)
-![alt text](<../Screenshot at 2025-05-12 08-28-45.png>)
-![alt text](<../Screenshot at 2025-05-12 08-29-05.png>)
-![alt text](<../Screenshot at 2025-05-12 08-29-28.png>)
-![alt text](<../Screenshot at 2025-05-12 08-29-52.png>)
-![alt text](<../Screenshot at 2025-05-12 08-30-13.png>)
+![alttext](./Screenshot%20at%202025-05-12%2008-27-03.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-28-45.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-29-05.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-23-28.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-29-52.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-30-13.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -190,7 +190,7 @@ int main() {
 ## OUTPUT
 
 
-![alt text](<../Screenshot at 2025-05-12 08-36-48.png>)
+![alttext](./Screenshot%20at%202025-05-12%2008-36-48.png)
 
 
 
