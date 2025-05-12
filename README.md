@@ -117,7 +117,6 @@ printf("Running ps with execlp. Now with path specified\n");
 ![alttext](./Screenshot%20at%202025-05-12%2008-27-03.png)
 ![alttext](./Screenshot%20at%202025-05-12%2008-28-45.png)
 ![alttext](./Screenshot%20at%202025-05-12%2008-29-05.png)
-![alttext](./Screenshot%20at%202025-05-12%2008-23-28.png)
 ![alttext](./Screenshot%20at%202025-05-12%2008-29-52.png)
 ![alttext](./Screenshot%20at%202025-05-12%2008-30-13.png)
 
